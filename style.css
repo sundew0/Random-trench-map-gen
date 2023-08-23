@@ -1,8 +1,10 @@
 .grid-container {
-  display: inline-grid;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
 }
 .grid-item {
   border: solid;
 html{
-  background-color: green;
+  background-color: blue;
 }
