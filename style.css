@@ -1,10 +1,10 @@
 .grid-container {
   display: grid;
-  grid-template-columns: auto;
+  grid-template-columns: 50px 50px 50px 50px 50px;
   grid-template-rows: auto;
 }
 .grid-item {
   border: solid;
 html{
-  background-color: blue;
+  background-color: red;
 }
