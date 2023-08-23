@@ -1,6 +1,8 @@
 .grid-container {
-  display: grid;
+  display: inline-grid;
 }
+.grid-item {
+  border: solid;
 html{
-  background-color: red;
+  background-color: green;
 }
