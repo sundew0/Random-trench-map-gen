@@ -1,0 +1,4 @@
+const pieces => {
+  blankSpace: " "
+  trench: "+"
+}
